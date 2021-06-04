@@ -31,3 +31,4 @@ def revealed_chars(word):
 def colorize(color, text):
     return color + text + Style.RESET_ALL 
 
+
